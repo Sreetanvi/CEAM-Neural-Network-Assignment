@@ -2,7 +2,7 @@
 
 ## 1. Objective
 
-The objective of this project was to build a complete image classification pipeline using a custom dataset (Prepared be me) and to experimentally investigate how neural networks learn during training.
+The objective of this project was to build a complete image classification pipeline using a custom dataset and to experimentally investigate how neural networks learn during training.
 A Convolutional Neural Network was developed using PyTorch to classify three object categories: Bottle, Watch and Scissors. The project involved dataset collection, preprocessing, model design, training and evaluation.
 
 Through this project, I aimed to develop practical intuition regarding ERM, Forward Propagation and Backpropagation, Optimization and Gradient Descent, Learning Rate Selection, Batch Size Effects, Regularization Techniques, Dropout, Overfitting vs Generalization, Training Stability. Instead of focusing just on achieving high accuracy, the purpose of the project was to understand why neural networks behave the way they do.
@@ -118,9 +118,9 @@ ERM, Learning Rate, Overfitting, RAG and it's pipeline, Vector databases, Embedd
 
 ## Dataset Access
 
-The dataset used for this project consists of custom images collected for three classes: Bottle, Watch, Scissors
+The dataset used for this project consists of custom images collected (by me) for three classes: Bottle, Watch, Scissors. 
 Due to GitHub file size limitations, the complete dataset has been hosted separately.
 
 Dataset Link:
-[Paste Google Drive Link Here]
+[https://drive.google.com/drive/folders/1_VnlwvR9OmPkxskU58LuUc6yul-sk31I?usp=sharing]
 
